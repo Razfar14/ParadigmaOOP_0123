@@ -15,3 +15,4 @@ class Mahasiswa{
 
 };
 
+int main(){
